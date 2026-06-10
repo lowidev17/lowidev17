@@ -1,4 +1,5 @@
 <h1 align="center">💻 Louie P. Tajanlangit</h1>
 
-<h4 align="center">Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast</h4>
-
+<h3 class="heading-element" dir="auto">
+  Full-Stack Developer | Problem Solver | Tech Enthusiast
+</h3>
